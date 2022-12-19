@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/PostLayout.astro"
 title: "Elon overpaid for Twitter and is quickly making it worse"
-description: "After spending $44 Billion to purchase Twitter Elon is now taking heat for recent controversial decisions."
+description: "Elon is now feeling the heat for recent controversial decisions."
 pubDate: "Dec 19 2022"
 heroImage: "/musk.jpg"
 ---

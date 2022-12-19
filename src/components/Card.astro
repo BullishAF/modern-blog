@@ -9,11 +9,11 @@ const { title, img, desc, url, badge, tags, target = '_blank' } = Astro.props;
       <div class="card-body">
         <h2 class="card-title">
           {title}
-          {badge && <div class="badge badge-secondary">{badge}</div>}
+          {badge && <div class="badge badge-primary">{badge}</div>}
         </h2>
         <p>{desc}</p>
         <div class="card-actions justify-end">
-          {tags && tags.map((tag) => <div class="badge badge-outline">{tag}</div>)}
+          {tags && tags.map((tag) => <div class="badge badge-secondary">{tag}</div>)}
         </div>
       </div>
     </div>

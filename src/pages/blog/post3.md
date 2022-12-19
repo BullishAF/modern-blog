@@ -5,6 +5,7 @@ description: "If you care anything about the freedom and privacy of your money t
 pubDate: "Dec 16 2022"
 heroImage: "/crypto.jpg"
 ---
+
 If you care anything about the freedom and privacy of your money then Bitcoin or Crypto shouldn't be considered "dumb" or "useless". In fact, they are in the beginning stages of a battle against Governments, Banks and Companies over the freedom and privacy of money. First, let's look at CBDC's and how Governments around the world will use them. **Central Bank Digital Currencies** are electronic coins or tokens controlled and backed by the government. Some Countries already have them and eventually *every* Country will have them [CBDC Tracker](https://cbdctracker.org/). 
 
 You may be thinking "what's the big deal, this isn't much different than the USD balance in my banking app now". In reality, it's **A LOT** different because CBDC's will allow governments to implement **social credit systems**, **eliminate the use of physical cash** and give it **full control and traceabilty** of the entire financial system, allowing them to decide **when, where and how** a citizen can spend money. And make no mistake that governments, banks and even some companies want nothing more than to track and control everyone's money. Need some proof of where things are headed? 👇

@@ -3,7 +3,7 @@ layout: "../../layouts/PostLayout.astro"
 title: "FTX, Centralized Exchanges & Moving Forward"
 description: "Not your keys, not your coins. More awareness for self-custody of crypto."
 pubDate: "Nov 13 2022"
-heroImage: "/post_img.webp"
+heroImage: "/ftxshirt.jpg"
 ---
 
 The Sam Bankman-Fried and FTX downfall comes down to a few key decisions. It was a terrible idea to own a crypto exchange holding user funds worth billions of dollars, while also owning(but claiming to not be actively involved) with his trading firm Alameda Research, in addition to that they also had a venture arm FTX Ventures that was making very risky bets on new crypto start-ups. So when Alameda Research lost massive amounts of money, most likely from the Luna/3AC debacle, SBF reportedly sent Alameda up to $4 Billion evidently obtained by using FTT, Serum and other tokens as collateral then finally dipping into customer assets deposited on FTX.

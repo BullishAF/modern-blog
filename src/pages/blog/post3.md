@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/PostLayout.astro"
 title: "Bitcoin/Crypto is in a battle against CBDCs for freedom and privacy"
-description: "If you care anything about the freedom and privacy of your money then Bitcoin or Crypto shouldn’t be considered “dumb” or “useless"."
+description: "If you care anything about the freedom and privacy of your money then Bitcoin or Crypto shouldn’t be considered useless."
 pubDate: "Dec 16 2022"
 heroImage: "/crypto.jpg"
 ---

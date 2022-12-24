@@ -13,7 +13,15 @@ const { image, title = SITE_TITLE, description = SITE_DESCRIPTION } = Astro.prop
 <html lang="en" data-theme="dark">
   <head>
     <BaseHead title={title} description={description} image={image} />
-    <script async defer data-website-id="03bb6000-ead8-48ca-9eee-95588ac8b75e" src="https://bullish-af-umami.vercel.app/umami.js"></script>  
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-45XQMVESQF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-45XQMVESQF');
+</script>  
   </head>
   <body>
     <div class="bg-primary drawer drawer-mobile">

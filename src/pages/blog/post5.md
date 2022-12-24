@@ -3,7 +3,7 @@ layout: "../../layouts/PostLayout.astro"
 title: "Everyone is up in arms about the SBF bail"
 description: "Lets compare it with Bernie Madoff and others"
 pubDate: "Dec 24 2022"
-heroImage: "/sambail.jpg"
+heroImage: "/sbfbail.jpg"
 ---
 
 A lot of people are upset that Sam Bankman-Fried was allowed to post bail after he was extradited back the to the US. First off, let me be *clear* that I didn't lose *that* much money in FTX mostly because I was already pretty fucking rekt'd from the Luna/UST/Three Arrows Capital collapse earlier in the year. For people that lost massive amounts of money in FTX, I'm sure they feel strongly about seeing SBF pay the price and suffer consequences and rightfully so. Now back to SBF posting bail, the judge set his bail at [250 Million Dollars](https://www.cnbc.com/2022/12/22/ftx-founder-sam-bankman-fried-to-be-released-on-250-million-bail.html) which is one of the largest bail amounts ever set in US history. 

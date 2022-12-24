@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/PostLayout.astro"
 title: "Everyone is up in arms about the SBF bail"
-description: "Let's compare it with Bernie Madoff Elizabeth Holmes and others."
+description: "Lets compare it with Bernie Madoff and others"
 pubDate: "Dec 24 2022"
 heroImage: "/sambail.jpg"
 ---

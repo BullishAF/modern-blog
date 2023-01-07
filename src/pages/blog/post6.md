@@ -6,12 +6,12 @@ pubDate: "Jan 07 2023"
 heroImage: "/twitterpost.png"
 ---
 
-It was Elon Musk who once said "Who controls the memes, contols the universe". I had the thought recently that for crypto, that most likely means "Who controls the memecoins, controls the metaverse". First lets discuss memes, a meme is a powerful tool, most people just think of "internet memes" but *memetics* is the study of information and culture based on how humans use memes. 
+It was Elon Musk who once said "Who controls the memes, contols the universe". In crypto, "Who controls the memecoins, controls the metaverse". First lets discuss memes, a meme is a truly powerful tool for those who know how to use them well, most people just think of "internet memes" but *memetics* is the study of information and culture based on how humans use memes. 
 
-But what even is a meme anyway? Well, the term "meme" was first coined by biologist Richard Dawkins in his 1976 book 'The Selfish Gene'. 
-Analogous to a human "gene" that is reproduced and can be passed on, the "meme" was conceived as a "unit of culture" (an idea, belief, pattern of behavior, etc.) which is "hosted" in the minds of one or more individuals, and can reproduce itself in the sense of jumping from the mind of one person to the mind of another. 
+But what even is a meme anyway? Well, "meme" was first coined by Biologist Richard Dawkins in his 1976 book 'The Selfish Gene'. 
+Meant to be analogous to a human "gene" that is replicated and passed on, the "meme" was conceived as a "unit of culture" (an idea, belief, pattern of behavior, etc.) which is "hosted" in the minds of one or more individuals, and can replicate itself in the sense of jumping from the mind of one person to the mind of another. 
 
-Just as it is for a gene, a memes success is based on it's contribution to the effectiveness of its host. A weak meme will die out quickly, while a strong meme will replicate and continue to be passed on and survive. Basically the overall concept is human beings want to copy, replicate and mimic other human beings, because thats human nature, so strong memes will continue to survive.
+Just as it is for a human gene, success for a meme is based on it's contribution to the effectiveness of its host. A weak meme will die out quickly, while a strong meme will replicate and continue to be passed on and survive. Basically it all comes back to human beings want to copy, replicate and mimic other human beings, because that's human nature, so strong memes continue to survive.
 
 Now take the same concept with memes(memetics), add a coin/token/"unit of account"(crypto) that can be actively traded and a global, instant communication platform(twitter) and things get pretty interesting when these three things come together, that is basically the ingredients of what makes a "memecoin". 
 

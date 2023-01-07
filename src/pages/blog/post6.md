@@ -6,7 +6,7 @@ pubDate: "Jan 07 2023"
 heroImage: "/twitterpost.png"
 ---
 
-It was Elon Musk who once said "Who controls the memes, contols the universe". In crypto, "Who controls the memecoins, controls the metaverse". First lets discuss memes, a meme is a truly powerful tool for those who know how to use them well, most people just think of "internet memes" but *memetics* is the study of information and culture based on how humans use memes. 
+It was Elon Musk who once said "Who controls the memes, controls the universe". In crypto, "Who controls the memecoins, controls the metaverse". First lets discuss memes, a meme is a truly powerful tool for those who know how to use them well, most people just think of "internet memes" but *memetics* is the study of information and culture based on how humans use memes. 
 
 But what even is a meme anyway? Well, "meme" was first coined by Biologist Richard Dawkins in his 1976 book 'The Selfish Gene'. 
 Meant to be analogous to a human "gene" that is replicated and passed on, the "meme" was conceived as a "unit of culture" (an idea, belief, pattern of behavior, etc.) which is "hosted" in the minds of one or more individuals, and can replicate itself in the sense of jumping from the mind of one person to the mind of another. 

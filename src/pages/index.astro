@@ -9,7 +9,10 @@ const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
 const last_posts = posts.slice(0, 3);
 ---
 
-<BaseLayout>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5265597461872915"
+     crossorigin="anonymous"></script>   
+
+  <BaseLayout>
 
     <div class="pb-12 mt-5">
       <div class="text-3xl py-3 font-bold">BullishAF Blog</div>
@@ -37,4 +40,7 @@ const last_posts = posts.slice(0, 3);
       ))
     }
 
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5265597461872915"
+     crossorigin="anonymous"></script> 
+      
 </BaseLayout>

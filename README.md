@@ -1,8 +1,8 @@
-# Astro Modern Personal Website
+# 3IC BLOG
 
-![Astro Modern Personal Website](public/social_img.png)
+![3IC Blog](public/3iclogo.png)
 
-Modern Personal Website Template with Project Section, CV Section, Paginated Blog, RSS Feed, SEO Friendly, Visual themes and Responsive Desing for Astro framework.
+Personal Blog Template with Paginated Blog, About, RSS Feed, SEO Friendly and Responsive Desing using Astro framework.
 
 ## Demo
 
@@ -211,7 +211,6 @@ The configuration for the deployment varies depending on the platform where you 
 
 Suggestions and pull requests are welcomed! Feel free to open a discussion or an issue for a new feature request or bug.
 
-One of the best ways of contribute is to grab a [bug report o feature suggestion](https://github.com/manuelernestog/astro-modern-personal-website/issues) that has been marked `accepted` and dig in.
 
 Please be wary of working on issues *not* marked as `accepted`. Just because someone has created an issue doesn't mean we'll accept a pull request for it.
 
@@ -225,6 +224,5 @@ Astro Modern Personal Website is licensed under the MIT license — see the [LIC
   <img src="https://contrib.rocks/image?repo=manuelernestog/astro-modern-personal-website" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
 
 

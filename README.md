@@ -1,6 +1,6 @@
 # 3IC BLOG
 
-![3IC Blog](public/3iclogo.png)
+![3IC Blog](public/3iclogo.jpg)
 
 Personal Blog Template with Paginated Blog, About, RSS Feed, SEO Friendly and Responsive Desing using Astro framework.
 

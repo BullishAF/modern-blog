@@ -6,6 +6,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://3ic-blog.vercel.app',
+  site: 'https://rpbullish-af-blog.vercel.app',
   integrations: [mdx(), sitemap(), tailwind()]
 });

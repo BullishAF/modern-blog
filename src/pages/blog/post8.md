@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/PostLayout.astro"
 title: "Chokepoint 2.0 & The battle against Crypto"
-description: "Why the Government wants to unbank crypto companies & politicians are waging war on crypto "
+description: "Regulators pushing to unbank crypto companies & politicians that are waging war against crypto "
 pubDate: "April 2 2023"
 heroImage: "/warren.png"
 ---

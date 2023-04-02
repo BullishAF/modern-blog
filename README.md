@@ -1,4 +1,4 @@
-# 3IC BLOG
+# rpbullish-af-blog
 
 ![3IC Blog](public/3iclogo.jpg)
 

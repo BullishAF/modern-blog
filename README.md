@@ -1,4 +1,4 @@
-# rpbullish-af-blog
+# bullish-af-blog
 
 ![3IC Blog](public/avatar.png)
 

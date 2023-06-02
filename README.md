@@ -6,7 +6,7 @@ Personal Blog Template with Paginated Blog, About, RSS Feed, SEO Friendly and Re
 
 ## Demo
 
-View a live demo of the [Astro Modern Personal Website](https://astro-modern-personal-website.netlify.app/)
+View a live version of [BullishAF Blog](https://bullish-af-blog.vercel.app/))
 
 
 ## Installation

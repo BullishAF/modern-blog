@@ -1,6 +1,6 @@
 # rpbullish-af-blog
 
-![3IC Blog](public/logo.jpg)
+![3IC Blog](public/avatar.png)
 
 Personal Blog Template with Paginated Blog, About, RSS Feed, SEO Friendly and Responsive Desing using Astro framework.
 
